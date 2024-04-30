@@ -1,0 +1,3 @@
+Hey, In the completion of Lab-6_Spring_Web_API, I have developed a secure student registration system utilizing the Spring framework for the backend infrastructure. This assignment has provided me with valuable insights into implementing security authentication mechanisms for user access control. Within the system, two user roles have been defined: Vijay, designated as an administrator with full access privileges, and Sanjay, designated as a regular user with limited functionalities such as viewing and adding students.
+
+For a comprehensive understanding of the system's functionality, I have recorded a demonstration video, which can be accessed through the provided Google Drive link:https://drive.google.com/file/d/1tAMuq0GHbYxmk7X9eNuF31l8Dkur5Kr1/view?usp=sharing
